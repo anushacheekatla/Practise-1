@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cloud Guest Book</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="switch_account">Switch Account</string>
+    <string name="view_intro">View Intro</string>
+    <string name="skip_intro">Skip intro next time</string>
+    <string name="announce_success">YOU HAVE JOINED</string>
+    <string name="announce_fail">CONNECTION FAILED</string>
+    <string name="send">Send</string>
+    <string name="send_message">sendMessage</string>
+    <string name="empty_string"></string>
+    <string name="no_messages">No messages yet</string>
+    <string name="intro_1_title">Guest Book Sample App</string>
+    <string name="intro_1_dscrp">Welcome to the Mobile Backend Starter sample guestbook Android app. This simple app allows users to send messages to other instances of the app running on Android or iOS devices. Play with this application to get started.  There is no additional backend coding required.</string>
+    <string name="intro_2_title">Mobile Backend Starter</string>
+    <string name="intro_2_dscrp">The guestbook app uses the Mobile Backend Starter for messaging and user authentication. The backend also provides a cloud datastore, with public and private objects, and a subscription service to give your apps real time interactivity.</string>
+    <string name="intro_3_title">Now it’s your turn</string>
+    <string name="intro_3_dscrp">Play around with this app and the source code to become familiar with the Mobile Backend Starter. When you are ready, replace the Guestbook sample code with your own app or game code.</string>
+    <string name="title_activity_welcome">Restaurant Maker</string>
+    <string name="welcome_button">Check In</string>
+    <string name="welcome_content">Restaurant\nMaker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_settings_detail">Settings</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="intro_section1">Welcome to a awesome Restaurant menu making experience</string>
+    <string name="intro_section2">Complete your menu in 3 simple steps.</string>
+    <string name="intro_section3">Configure once for all</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <!-- Label for Location Preferences -->
+    <string name="pref_title_label">Restaurant Name</string>
+    <!-- Key name for storing location in shared preferences -->
+    <string name="pref_title_key" translatable="false">restaurantName</string>
+    <!-- Default postal code for location preference -->
+    <string name="pref_title_default" translatable="false">Restaurant Maker</string>
+    <string name="pref_account_name">accountName</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+</resources>
